@@ -3,3 +3,4 @@ add another file to the folder and commit it
 add another file to the folder and commit it
 add fourth file to the folder and commit it
 add fifth file to the folder and commit it
+add sixth file to the folder and commit it
